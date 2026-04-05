@@ -1,0 +1,610 @@
+﻿ID_EQUIPO;EQUIPO;MARCA;MODELO
+1;Agitador de Mazini;LW Scientific;120021
+2;Agitador de plaquetas;HELMER;PFS 96
+3;Analizador Bacteriologico;bioMerieux;VITEK 2 COMPACT
+4;Analizador Heliprobe;Kibion;HPU-011
+5;Analizador de Coagulacion;Medtronic;ACT Plus
+6;Analizador de Coagulacion;STAGO;STA COMPACT MAX
+7;Analizador de Coagulacion;STAGO;START MAX
+8;Analizador de Electrolitos;Nanoduct;1030
+9;Analizador de Electrolitos;Roche;9180
+10;Analizador de Gases;Roche;Cobas 221
+11;Analizador de Hematologia;Sysmex;XN-1000
+12;Analizador de Inmunoensayos;Abbott;ARCHITET I2000SR
+13;Analizador de Inmunohematologia;Bio-Rad;TECHNO TWIN STATION
+14;Analizador de Inmunologia;COBAS;COBAS 6000
+15;Analizador de Inmunologia;Roche;COBAS e411
+16;Analizador de Microelisa;DYNEX TECNOLOGIES;DS2
+17;Analizador de Quimica;COBAS;COBAS 6000
+18;Analizador de Sangre;Abbott;I-STAT 1 (300-G)
+19;Analizador de muestras de orina;COBAS;U601
+20;Angiografo;Siemens;AXION ARTIS ZEE CEILING
+21;Anoscopio (Proctoscopio);Karl Storz;24954KK
+22;Arco en C;Siemens;Cios Fit
+23;Arco en C;Siemens;Siremobil Compac
+24;Autoclave Vapor;PAFFOR;PAF340L1P
+25;Autoclave Vapor;PAFFOR;PAFF-AR-500
+26;Autoclave de Cassete;SCICAN;STATIM 2000
+27;Balanza Gramera;Ohaus;700/800 series
+28;Balanza Gramera;Ohaus;NVL5101/1
+29;Balanza Gramera;Ohaus;TRIPLE BRAZO
+30;Balanza Gramera;Seca;856
+31;Balanza de Sangre;GENESIS;CM 350
+32;Balanza de Sangre;Terumo;D601
+33;Banda prueba de esfuerzo;Full vision;TMX425
+34;Banda sin fin;keys;n.i
+35;Banda sin fin;weslo;1005
+36;Bano Serologico;Memmert;WB7
+37;Bascula Analoga;Health o Meter;160 KG
+38;Bascula Analoga;Health o Meter;160 kg
+39;Bascula Analoga;Health o Meter;160 kgwa
+40;Bascula Analoga;Health o Meter;160KG
+41;Bascula Analoga;Health o Meter;160Kg
+42;Bascula Analoga;Kex Germany;BR-2050
+43;Bascula Analoga;Medic;N.I
+44;Bascula Analoga;Seca;750
+45;Bascula Analoga;Seca;762
+46;Bascula Analoga Pediatrica;Health o Meter;386KGS
+47;Bascula Analoga Pediatrica;Health o Meter;386KGS-01
+48;Bascula Digital;Health o Meter;844KL
+49;Bascula Digital;Health o Meter;844kl
+50;Bascula Digital;JCM;150 Kg
+51;Bascula Digital;Seca;803
+52;Bascula Digital;Seca;813
+53;Bascula Digital;Seca;874
+54;Bascula Digital;Seca;n.i
+55;Bascula Digital Pediatrica;Seca;354
+56;Bascula de Mesa;Trumax;Fenix
+57;Bicicleta Ergonomica;Dynamic;FR-150
+58;Bicicleta estatica;sport top;B850
+59;Blender;SECHRIST;3500
+60;Bomba de Infusion;Baxter;Evo IQ
+61;Bomba de Irrigacion;Conmed;10K
+62;Bomba de Irrigacion;Olympus;OFP
+63;Bomba de Nutricion;Covidien;Cangaroo
+64;Bomba de Nutricion;Covidien;Kangaro
+65;Bomba de Nutricion;Covidien;Kangaroo
+66;Bomba de Nutricion;Covidien;kangaroo
+67;CaBina de Seguridad Biologica;AIRR 100;CSBS 0.90-IIA2CR18
+68;Calcusplit;Karl Storz;276300 20
+69;Calentador de liquidos;Steris;N.I
+70;Cama Hospitalaria;L&K;Hb54-c1
+71;Cama Hospitalaria;L&K;Hb54-c2
+72;Cama Hospitalaria;L&K;N.I
+73;Cama Hospitalaria;L&K;hb-54-c1
+74;Cama Hospitalaria;L&K;hb54-c1
+75;Cama Hospitalaria;MB;mb-112
+76;Cama Hospitalaria;MB;mb11-2
+77;Cama Hospitalaria;Mafet;Electrica
+78;Cama Hospitalaria;Mafet;N.I
+79;Cama Hospitalaria;Mafet;ta23-2603-002
+80;Cama Hospitalaria;Mafet;ta23-2603-003
+81;Cama Hospitalaria;Mafet;ta23-series
+82;Cama Hospitalaria;Mafet;tc1-s3nb-4
+83;Cama Hospitalaria;Mubi;Lynix
+84;Cama Hospitalaria;Mubi;Lynix essential
+85;Cama Hospitalaria;Mubi;linix
+86;Cama Hospitalaria;Mubi;lynix
+87;Cama Hospitalaria;Stryker;Intouch
+88;Camara;Conmed;im8120
+89;Centrifuga;Bio-Rad;ID CENTRIFUGE 12 S II
+90;Centrifuga;Boeco;C-28A
+91;Centrifuga;DRUCKER;614B
+92;Centrifuga;HETTICH;ROTOFIX 32A
+93;Centrifuga;Hanil;FLETA 40
+94;Centrifuga;Hanil;Serospin
+95;Centrifuga;INDULAB;SPECIAL 004-E
+96;Centrifuga;LW Scientific;LWS COMBO V24T
+97;Centrifuga;LW Scientific;LWS-COMBO-V-24T
+98;Centrifuga Refrigerada;PRESVAC;DP-2065 R PLUS
+99;Cicloergometro;No especifica;n.i
+100;Compresor vascular;Covidien;Kendall SCD 700 Series
+101;Conector esteril;Terumo;T-SCDII
+102;Congelador;Midea;MD 40L308
+103;Congelador Seroteca;No especifica;N.I
+104;Congelador de Plasma Fresco;No especifica;N.I
+105;Congelador de Plasma Fresco;No especifica;N.I.
+106;Consola de artroscopia;Conmed;Drive System D4000
+107;Consola de contrapulsacion;arrow;ac1plus
+108;Contador de Celulas Digital;L Y L DESING;P001
+109;Controlador de Camara;Conmed;IM8000
+110;Criostato;Thermo Fisher Scientific;HM525 NX UV
+111;Desfibrilador;Mindray;Beneheart D3
+112;Desfibrilador;Zoll;E series
+113;Desfibrilador;Zoll;Eseries
+114;Desfibrilador;Zoll;M Series
+115;Desfibrilador;Zoll;M series
+116;Desfibrilador;Zoll;Mseries
+117;Doppler Fetal;Edan;Sonotrax
+118;Doppler Fetal;Hultleigh;FD1+
+119;Ecografo;Canon;Aplio-A450
+120;Ecografo;Mindray;CONSONA N8
+121;Ecografo;Mindray;DC-70
+122;Ecografo;Siemens;Acuson X300
+123;Ecografo;Toshiba;VIVP 660
+124;Electrobisturi;Conmed;SYSTEM 2450
+125;Electrobisturi;Conmed;System 2450
+126;Electrobisturi;Covidien;FT 10
+127;Electrobisturi;Valleylab;Force FX
+128;Electrobisturi;WEM;SS-501 SX
+129;Electrocardiografo;Bionet;Cardio 7
+130;Electrocardiografo;Bionet;Cardio7
+131;Electrocardiografo;Bionet;Cardiocare
+132;Electrocardiografo;Bionet;cardio 7
+133;Electrocardiografo;Bionet;cardio7
+134;Electrocardiografo;Edan;SE-3
+135;Electrocardiografo;Edan;SE-301
+136;Equipo de Rx;Mindray;DIGI EYE 280 50 KW
+137;Equipo de Rx portatil;Agfa;DR100e
+138;Equipo de agregacion Plaquetaria;Siemens;PFA 100
+139;Equipo de artroscopia;Arthrocand;Quantum 2
+140;Equipo de organos;Heine;Heine en 80
+141;Equipo de organos;Hillrom;Gs 777
+142;Equipo de organos;Hillrom;Pared
+143;Equipo de organos;Welch Allyn;728
+144;Equipo de organos;Welch Allyn;Gs777
+145;Equipo de organos;Welch Allyn;Led
+146;Equipo de organos;Welch Allyn;Pocket Junior 727
+147;Equipo de organos;Welch Allyn;Pocket led
+148;Equipo de organos;Welch Allyn;n.i
+149;Equipo de organos;Welch Allyn;pocked junior 727
+150;Espirometro;Mgc diagnostics;CPFS/D-USB
+151;Esterilizador a Gas;3M;STERI-VAC 5XL
+152;Esternotomo;Stryker;System 7
+153;Estroboscopio;Jedmed;Estrobocam II
+154;Flujometro;Air Imetan;0-15
+155;Flujometro;Air Imetan;0-15 lmp
+156;Flujometro;Air Imetan;FM-100
+157;Flujometro;Air Imetan;FM100
+158;Flujometro;Air Imetan;FMO-115
+159;Flujometro;Air Imetan;fm-100
+160;Flujometro;Amvex;0-15 LPM
+161;Flujometro;Amvex;Oxygen
+162;Flujometro;Amvex;n.i
+163;Flujometro;Generico;0-15L
+164;Flujometro;Gentec;0-15 LPM
+165;Flujometro;Gentec;15L
+166;Flujometro;Gentec;FM197A-15L-CH
+167;Flujometro;Gentec;FM197A-3L-CH
+168;Flujometro;Gentec;FM197A-FL-00
+169;Flujometro;Gentec;FM197B-15L-CH
+170;Flujometro;Gentec;FM197B-15l-CH
+171;Flujometro;Gentec;Fm197b-15l-ch
+172;Flujometro;Gentec;N.I
+173;Flujometro;Gentec;fm197b-15l-ch
+174;Flujometro;MADA;0-15L
+175;Flujometro;No especifica;n.i
+176;Flujometro;Ohio;N.I
+177;Flujometro;Ohio;n.i
+178;Flujometro;Oxigen;0-15
+179;Flujometro;Oxigen;0-15 LPM
+180;Flujometro;Oxigen;0-15L
+181;Flujometro;Oxigen;0.15
+182;Flujometro;Oxigen;015L
+183;Flujometro;Oxigen;N.I
+184;Flujometro;Oxigen;NI
+185;Flujometro;Oxigen;n.i
+186;Flujometro;Precision Medical;0-15
+187;Flujometro;Precision Medical;0-15 LPM
+188;Flujometro;Precision Medical;0-15LPM
+189;Flujometro;Precision Medical;1MFA
+190;Flujometro;Precision Medical;1MFA1001
+191;Flujometro;Precision Medical;1mfa
+192;Flujometro;Precision Medical;1mfa100
+193;Flujometro;Precision Medical;n.i
+194;Flujometro;Timeter;0-15
+195;Flujometro;Timeter;0-15 L
+196;Flujometro;Timeter;0-15 LPM
+197;Flujometro;Timeter;0-15L
+198;Flujometro;Timeter;N.I
+199;Flujometro;Timeter;No especifica
+200;Flujometro;Timeter;n.i
+201;Flujometro alto flujo;No especifica;0-70L
+202;Flujometro alto flujo;No especifica;N.I
+203;Fonendoscopio;GMD;ADULTO
+204;Fonendoscopio;GMD;No especifica
+205;Fonendoscopio;GMD;n.i
+206;Fonendoscopio;Generico;ADULTO
+207;Fonendoscopio;Generico;Adulto
+208;Fonendoscopio;Generico;N.I
+209;Fonendoscopio;Generico;N.i.
+210;Fonendoscopio;Generico;NI
+211;Fonendoscopio;Generico;No especifica
+212;Fonendoscopio;Generico;No indentificado
+213;Fonendoscopio;Kaishun;510
+214;Fonendoscopio;Littmann;CLASSIC III
+215;Fonendoscopio;Littmann;n.i
+216;Fonendoscopio;Lord;N.I
+217;Fonendoscopio;No especifica;N.I
+218;Fonendoscopio;No especifica;n.i
+219;Fonendoscopio;Riester;Adulto
+220;Fonendoscopio;Riester;Duplex 2.0
+221;Fonendoscopio;Riester;N.I
+222;Fonendoscopio;Riester;duplex 2,0
+223;Fonendoscopio;Riester;duplex 2.0
+224;Fonendoscopio;Seca;1840
+225;Fonendoscopio;Seca;N.I
+226;Fonendoscopio;Seca;NI
+227;Fonendoscopio;Seca;S10
+228;Fonendoscopio;Seca;S22
+229;Fonendoscopio;Seca;S30
+230;Fonendoscopio;Tenso med;Adulto
+231;Fonendoscopio;Welch Allyn;Adulto
+232;Fonendoscopio;Welch Allyn;Dos Servicios Ref: 5079-135
+233;Fonendoscopio;Welch Allyn;N.I
+234;Fonendoscopio;Welch Allyn;NI
+235;Fonendoscopio;Welch Allyn;No especifica
+236;Fonendoscopio;Welch Allyn;n.i
+237;Fonendoscopio pediatrico;Welch Allyn;pediatrico
+238;Fronto luz;Welch Allyn;49000
+239;Fronto luz;Welch Allyn;49020
+240;Fuente de Luz;Conmed;LS8000
+241;Fuente de Luz;Karl Storz;XENON 175
+242;Fuente de Luz;Olympus;Evis exera II CLV-180
+243;Fuente de Luz;Olympus;Evis exera III CVL-190
+244;Fuente de luz Anoscopio;Karl Storz;11301
+245;Glucometro;GlucoQuick;630a
+246;Glucometro;GlucoQuick;G30A
+247;Glucometro;GlucoQuick;G30a
+248;Glucometro;GlucoQuick;GS30A
+249;Glucometro;GlucoQuick;g30a
+250;HUB Rack;Baxter;EVO IQ HUB
+251;HUB Rack;Baxter;Evo IQ HUB
+252;HUB Rack;Baxter;EvoIQ HUB
+253;HUB Rack;Baxter;EvoIQ-HUB
+254;HUB Rack;Baxter;Evoiq HUB
+255;HUB Rack;Baxter;Evoiq hub
+256;HUB Rack;Baxter;IvoIQ HUB
+257;HUB Rack;Baxter;No especifica
+258;HUB Rack;Baxter;evoiq hub
+259;Hemoglobinometro;DIASPECT;90C.0003
+260;Hemoglobinometro;HEMOCUE;HB 301
+261;Hub Rack;Baxter;EVO IQ HUB
+262;Hub Rack;Baxter;Evo IQ
+263;Humidificador;Fisher & Paykel;MR810
+264;Humidificador;Fisher & Paykel;MR850
+265;Humidificador;Fisher & Paykel;MR850JSU
+266;Humidificador;Fisher & Paykel;MR85DJSU
+267;Humidificador;JKE;SH330
+268;Humidificador de alto flujo;Maff Health;Alveos HF 40-0001
+269;Impresora;Olympus;OEP-4
+270;Incubadora de Indicadores Biologicos;Bionova;IC10/20FR
+271;Incubadora de Laboratorio;LW Scientific;INCUBATOR
+272;Incubadora de Laboratorio;Memmert;UM 200
+273;Incubadora para Inmunohematologia;Bio-Rad;ID INCUBATOR 37 S I
+274;Intercambiador de Temperatura;Sarns;NI
+275;Inyector;Medrad;MARK 7 ARTERION
+276;Inyector;Medrad;Mark v provis
+277;Inyector;Medrad;Spectris solaris
+278;Lampara Cielitica;Mindray;HYLED C7
+279;Lampara Cielitica;No especifica;No especifica
+280;Lampara Cielitica;Senova;NovaLED-A121
+281;Lampara Cielitica;Steris;XLED-XLDV3300SXW
+282;Lampara Cuello de Cisne;Generico;Generico
+283;Lampara Cuello de Cisne;Generico;NI
+284;Lampara Cuello de Cisne;Welch Allyn;444xx
+285;Lampara Cuello de Cisne;Welch Allyn;GS300
+286;Lampara Cuello de Cisne;Welch Allyn;gs300
+287;Lampara de Fototerapia;General Electric;Lullaby LED
+288;Laringoscopio;ADC;N.I
+289;Laringoscopio;Estainless;NI
+290;Laringoscopio;Welch Allyn;60300
+291;Laringoscopio;Welch Allyn;60813
+292;Laringoscopio;Welch Allyn;60814
+293;Laringoscopio;Welch Allyn;6300
+294;Laringoscopio;Welch Allyn;No especifica
+295;Laringoscopio;Welch Allyn;n.i
+296;Laser;Boston Scientific;Auriga 30
+297;Lector de tarjetas;Bio-Rad;BANJO TECHNO LYRA
+298;Limpiador a Vapor;Elma;Elmasteam 8 med
+299;Manometro;ACARE;VSC-102
+300;Manta Termica;Celsius medical;Calima 12
+301;Manta Termica;Covidien;WarmTouch
+302;Manta Termica;Nellcor;WarmTouch
+303;Maquina Extracorporea;Terumo;9000 perfusion System
+304;Maquina de Aferesis;Trima accel;Cardian BCT
+305;Maquina de Anestesia;Datex Ohmeda;Aisys
+306;Maquina de Anestesia;Datex Ohmeda;Modulus
+307;Maquina de Anestesia;Datex Ohmeda;S/5 Aespire
+308;Maquina de Anestesia;Mindray;Wato EX-65 PRO
+309;Maquina de Dialisis Peritoneal;Baxter;HOMECHOICE CLARIA
+310;Maquina de Hemodialisis;Baxter;AK98
+311;Marcapasos;Mectronic;5388
+312;Marcapasos;Mectronic;5392
+313;Marcapasos;Medtronic;5388
+314;Marcapasos;Osypka;Pase 101 H
+315;Marcapasos;Pace medical;EV4543
+316;Mesa Basculante;Los pinos;systemm1
+317;Mesa Ginecologica;Shampaine;2605 NLB
+318;Mesa Quirurgica;Hillrom;PST 300L
+319;Mesa Quirurgica;Hillrom;PST 300S
+320;Mesa Quirurgica;Skytron;3500B
+321;Mesa Quirurgica;Steris;Amsco 3080
+322;Mesa Quirurgica;Steris;Amsco 3085 SP
+323;Mesa de traccion;Hillrom;No especifica
+324;Micromotor maxilofacial;NSK;SURGIC AP
+325;Micropipeta;BIOHIT;10
+326;Micropipeta;BIOHIT;5-50
+327;Micropipeta;Bio-Rad;12,5 25, 50,
+328;Micropipeta;Boeco;100-1000
+329;Micropipeta;Boeco;1000
+330;Micropipeta;Boeco;500
+331;Micropipeta;Brand;10
+332;Micropipeta;Brand;100-1000
+333;Micropipeta;Brand;5-50
+334;Micropipeta;FINNPIPETTE;200
+335;Micropipeta;FINNPIPETTE;50
+336;Micropipeta;Thermo Fisher Scientific;10-100
+337;Micropipeta;Thermo Fisher Scientific;100-1000
+338;Micropipeta;VITEK;145 (V1221)
+339;Micropipeta;VITEK;280 (V1222)
+340;Microscopio;Olympus;CX31RBSFA
+341;Microscopio;Olympus;CX43RF
+342;Microscopio;REICHERT;310
+343;Microscopio Quirurgico;Carl Zeiss;S7
+344;Microscopio Quirurgico;Carl Zeiss;S88
+345;Modulo de Quimica;COBAS;COBAS C 501
+346;Modulo de inmunologia;COBAS;COBAS E601
+347;Monitor Fetal;BioCare;IC60
+348;Monitor Grado Medico;Conmed;HD1080p LED
+349;Monitor Grado Medico;Karl Storz;SC-WU26-A1511
+350;Monitor Grado Medico;NDS;SC-WU24-A1511
+351;Monitor Grado Medico;Olympus;OEV191
+352;Monitor Grado Medico;Stryker;21¨ Visionelect
+353;Monitor Multiparametrico;BioCare;BM-9000S
+354;Monitor Multiparametrico;BioCare;BM9000S
+355;Monitor Multiparametrico;BioCare;Bm-9000S
+356;Monitor Multiparametrico;BioCare;IM 15
+357;Monitor Multiparametrico;BioCare;IM-12
+358;Monitor Multiparametrico;BioCare;IM-15
+359;Monitor Multiparametrico;BioCare;IM12
+360;Monitor Multiparametrico;BioCare;IM15
+361;Monitor Multiparametrico;BioCare;Im12
+362;Monitor Multiparametrico;BioCare;im12
+363;Monitor Multiparametrico;BioCare;im15
+364;Monitor Multiparametrico;Edan;IM8
+365;Monitor Multiparametrico;Edan;im8
+366;Monitor Multiparametrico;General Electric;B105M
+367;Monitor Multiparametrico;Medrad;Veris 8600
+368;Monitor Multiparametrico;Mindray;IMEC 10
+369;Monitor Multiparametrico;Mindray;Imec10
+370;Monitor Multiparametrico;Mindray;iMEC10
+371;Monitor Multiparametrico;Mindray;imec10
+372;Monitor Multiparametrico;Vita life;GT-8000L
+373;Motor electrico legend;Medtronic;MIDAS REX LEGEND
+374;Nebulizador;Devilbiss;5650D
+375;Negatoscopio;Biopadis;N.I
+376;Negatoscopio;Biopadis;Nacional
+377;Negatoscopio;Generico;N.I
+378;Neumoinsuflador;Conmed;GS2000
+379;Neumoinsuflador;Karl Storz;26 4320
+380;Neuroestimulador;Plexigon;7501-01-01 00:00:00
+381;Nevera;ABBA;NVAR50651P
+382;Nevera;ABBA;Nvars0651p
+383;Nevera;ABBA;nwars0651p
+384;Nevera;Biored;BIORVP04G081900
+385;Nevera;CENTRALES;N.I.
+386;Nevera;CHALLENGER;(17 PIES NO FROST)
+387;Nevera;CHALLENGER;CR233
+388;Nevera;CHALLENGER;CR262
+389;Nevera;ELECTROLUX;EFUP313YSKW
+390;Nevera;ELECTROLUX;EUC326NDHW
+391;Nevera;Haceb;N15/NF ELEGANT
+392;Nevera;Haceb;RS-9A
+393;Nevera;ICASA;ATE-8A
+394;Nevera;INDURAMA;VFV-400
+395;Nevera;LG;720C
+396;Nevera;LG;GC-131S
+397;Nevera;LG;GR302SH
+398;Nevera;MELING;YC130L
+399;Nevera;PHCBI;SF-L6111W-PS
+400;Nevera;SAMSUNG;RT6WNPP1/SCL
+401;Nevera;Vestfrost;MK 144 / Horizontal
+402;Nevera;WHIRPOOL;LWT6506A
+403;Nevera;WHIRPOOL;WD555OL
+404;Nevera de Transporte con Termometro Digital;Biored;22 QT Cooler
+405;Nevera de Transporte con Termometro Digital;Biored;42 QT Cooler
+406;Nevera de Transporte con Termometro Digital;Biored;5 QT Cooler
+407;Nevera de Transporte con Termometro Digital;Estra;22 QT Cooler
+408;Nevera de Transporte con Termometro Digital;No especifica;N.I.
+409;Nevera de Transporte con Termometro Digital;No especifica;n.i.
+410;Oftalmoscopio binocular indirecto;Welch Allyn;12500
+411;Olla esterilizadora;ALL AMERICAN;25X-1
+412;Planta de Osmosis;Aqua nova;No especifica
+413;Planta de Osmosis Portatil;Baxter;WRO 300
+414;Procesador y Fuente de Luz;Pentax;EPK-15500C
+415;Procesadora;Olympus;Evis exera II CLV-180
+416;Procesadora;Olympus;Evis exera III CV-190
+417;Pulsioximetro;Edan;H100-B
+418;Pulsioximetro;Edan;H100B
+419;Pulsioximetro;GMD;PULSAX 500E
+420;Pulsioximetro;Generico;Fs20A
+421;Pulsioximetro;Nellcor;N595
+422;Pulsioximetro;No especifica;No especifica
+423;Reanimador para Bebes;Fisher & Paykel;Neopuff
+424;Refrigerador de Globulos Rojos;No especifica;N.I
+425;Regulador de Oxigeno;Air Imetan;0-15 L
+426;Regulador de Oxigeno;Air Imetan;0-4000
+427;Regulador de Oxigeno;Air Imetan;R 915 / CGA-540
+428;Regulador de Oxigeno;Air Imetan;R-915
+429;Regulador de Oxigeno;Gentec;0-15 L
+430;Regulador de Oxigeno;Gentec;0-15LPM
+431;Regulador de Oxigeno;Gentec;284MA-15LY
+432;Regulador de Oxigeno;Harris;2898-01-01 00:00:00
+433;Regulador de Oxigeno;Hudson RCI;2615
+434;Regulador de Oxigeno;Oxigen;N.I
+435;Regulador de Oxigeno;Responsive;120-1060C
+436;Regulador de Vacio;Acare;VRA-301
+437;Regulador de Vacio;Bourdon Haenni;n.i
+438;Regulador de Vacio;Chemetron;22-13-01-00 1211
+439;Regulador de Vacio;Chemetron;22-13-0100 0812
+440;Regulador de Vacio;Chemetron;22-13-0100-1211
+441;Regulador de Vacio;Chemetron;22-13-0200 0812
+442;Regulador de Vacio;Chemetron;22-13-0200-0812
+443;Regulador de Vacio;Chemetron;22-13-1108
+444;Regulador de Vacio;Chemetron;22-13-1108 0708
+445;Regulador de Vacio;Chemetron;22-13-1109
+446;Regulador de Vacio;Chemetron;22-13-1208
+447;Regulador de Vacio;Chemetron;22-13-1208 0214
+448;Regulador de Vacio;Chemetron;22-13-1208 0814
+449;Regulador de Vacio;Chemetron;22-13-1208 0914
+450;Regulador de Vacio;Chemetron;22-13-1208 1114
+451;Regulador de Vacio;Chemetron;222130200012
+452;Regulador de Vacio;Gentec;882VR-300-CH-C
+453;Regulador de Vacio;Gentec;882VR-300-CH-T
+454;Regulador de Vacio;Gentec;882VR-760-00-A
+455;Regulador de Vacio;Gentec;882VR-760-CH-C
+456;Regulador de Vacio;Gentec;882VR-760-CH-c
+457;Regulador de Vacio;Gentec;882VR760CHC
+458;Regulador de Vacio;Gentec;882vr-300-ch-c
+459;Regulador de Vacio;Gentec;882vr-760-ch-c
+460;Regulador de Vacio;Gentec;88VR-760-CH-C
+461;Regulador de Vacio;Gentec;Continuous
+462;Regulador de Vacio;Ohio;1224
+463;Regulador de Vacio;Ohio;1226
+464;Regulador de Vacio;Ohio;225-2531-800
+465;Regulador de Vacio;Ohio;246020
+466;Regulador de Vacio;Ohio;N.I
+467;Regulador de Vacio;Precision Medical;PM3000
+468;Regulador de Vacio;Precision Medical;PM3100
+469;Regulador de Vacio;Precision Medical;Pm3100
+470;Regulador de Vacio;Precision Medical;pm3100
+471;Regulador de Vacio;Vacutron;22-13-0200 0812
+472;Regulador de Vacio;Vacutron;22-13-02000-0812
+473;Regulador de aire;Gentec;4000PSI
+474;Resonador;Siemens;MAGNETOM LUMINA
+475;Rinolaringoscopio;Machida;ENT-4L
+476;Selladora;Hawo;HD650 D
+477;Selladora;Terumo;T-SEAL II
+478;Separador automatico de componentes;Terumo;ARCHIMEDE
+479;Shaver;Stryker;1168778
+480;Sin Clasificar;Bionet;cardio7
+481;Sistema Vac;BIOART;TPN PRO
+482;Sistema de Deteccion Microbiana;bioMerieux;BACT/ALERT 3D
+483;Succionador;CA MI;New aspiret
+484;Succionador;Schuco;s130
+485;Succionador;Schuco;s130a
+486;Succionador;Smaf;SXT-5A
+487;Succionador;Thomas;1130-067B
+488;Succionador;Thomas;1615
+489;Succionador;Thomas;1630 GL
+490;Succionador;Thomas;1630GL
+491;Succionador;Thomas;1630gl
+492;Succionador;Thomas;915CA18-911
+493;Tallimetro;Seca;206
+494;Tens;Intelect;2124799
+495;Tensiometro;ADC;Manual
+496;Tensiometro;ADC;Pared
+497;Tensiometro;ALPK2;1969
+498;Tensiometro;GMD;GMD20
+499;Tensiometro;GMD;gmd-bpm-1490-c
+500;Tensiometro;Hillrom;Shock resistant
+501;Tensiometro;Lord;n.i
+502;Tensiometro;Riester;Big ben / Pared
+503;Tensiometro;Seca;N.I
+504;Tensiometro;Seca;Pediatrico
+505;Tensiometro;Tenso Med;Pared
+506;Tensiometro;Welch Allyn;297
+507;Tensiometro;Welch Allyn;7670-10-01 00:00:00
+508;Tensiometro;Welch Allyn;901092
+509;Tensiometro;Welch Allyn;Adulto
+510;Tensiometro;Welch Allyn;DS-44
+511;Tensiometro;Welch Allyn;DS44
+512;Tensiometro;Welch Allyn;Ds44
+513;Tensiometro;Welch Allyn;N.A.
+514;Tensiometro;Welch Allyn;No especifica
+515;Tensiometro;Welch Allyn;Pared
+516;Tensiometro;Welch Allyn;SHOCK RESISTANT
+517;Tensiometro;Welch Allyn;Shock Resistant
+518;Tensiometro;Welch Allyn;Shock Resistant DS44
+519;Tensiometro;Welch Allyn;Shock resistant
+520;Tensiometro;Welch Allyn;shock resistant
+521;Tensiometro;Welch Allyn;tycos
+522;Tensiometro;taiyu;n.i
+523;Tensiometro Digital;HomeLife;BF-5100
+524;Tensiometro Digital;HomeLife;BP-1305
+525;Tensiometro Digital;Lord;LD-578
+526;Tensiometro Digital;Omron;HEM-7113
+527;Tensiometro Digital;Omron;Hem-7114
+528;Tensiometro Pediatrico;Welch Allyn;DS44
+529;Tensiometro Pediatrico;Welch Allyn;SUPER SHOCK RESISTANT
+530;Termohigrometro;Brixco;Analogo
+531;Termohigrometro;Brixco;PLUS
+532;Termohigrometro;Generico;309
+533;Termohigrometro;Generico;DC103
+534;Termohigrometro;Generico;DC104
+535;Termohigrometro;KTJ;TA 218B
+536;Termohigrometro;KTJ;TA 218D
+537;Termohigrometro;KTJ;TA 318
+538;Termohigrometro;KTJ;TA-318
+539;Termohigrometro;KTJ;TA218
+540;Termohigrometro;KTJ;TA218B
+541;Termohigrometro;KTJ;TA218D
+542;Termohigrometro;KTJ;TA316
+543;Termohigrometro;KTJ;TA317
+544;Termohigrometro;KTJ;TA318
+545;Termohigrometro;KTJ;Ta218b
+546;Termohigrometro;KTJ;Ta318
+547;Termohigrometro;KTJ;ta218b
+548;Termohigrometro;KTJ;ta318
+549;Termohigrometro;Kex Germany;SH-109
+550;Termohigrometro;Kex Germany;SH-110
+551;Termohigrometro;Kex Germany;SH109
+552;Termohigrometro;Kex Germany;Sh-109
+553;Termohigrometro;Kex Germany;TH109
+554;Termohigrometro;Kex Germany;sh-109
+555;Termohigrometro;Kex Germany;sh-110
+556;Termohigrometro;Kex Germany;sh109
+557;Termohigrometro;MEDICAL TECHPRO;HTC-2
+558;Termohigrometro;No especifica;ANALOGO
+559;Termohigrometro;No especifica;N.I.
+560;Termohigrometro;elitech;GSP-6
+561;Termometro Analogo;ARTHERMO;Analogo
+562;Termometro Digital;ANSENY;TPM-10
+563;Termometro Digital;Brixco;NI
+564;Termometro Digital;Estra;generico
+565;Termometro Digital;FRIDGE FREZER;DIGITAL
+566;Termometro Digital;Generico;Digital
+567;Termometro Digital;Generico;n.i
+568;Termometro Digital;Kex Germany;RT-803E
+569;Termometro Digital;No especifica;803
+570;Termometro Digital;No especifica;DIGITAL
+571;Termometro Digital;No especifica;Digital
+572;Termometro Digital;No especifica;No especifica
+573;Termometro Digital;No especifica;RT-803E
+574;Termometro Infrarrojo;BENETECH;GM531
+575;Termometro Infrarrojo;INFRARED;AET-R1B1
+576;Termometro Punzon;Brixco;4112
+577;Termometro Punzon;Winters;punzon
+578;Termometro con Sonda;Kex Germany;RT-803E
+579;Termometro con Sonda;VICI;TM803
+580;Termometro de piel;Alfa Safe;TRDR004
+581;Termometro nevera;Kex Germany;rt-803e
+582;Tomografo;Toshiba;Activion 16
+583;Torniquete Electronico;Zimmer;A.T.S. 2000
+584;Torre de laparoscopia;Conmed;BRD8503GD
+585;Torre de laparoscopia;Karl Storz;N.E
+586;Ultrasonido;Bard;site-rite 8
+587;Ultrasonido;Mettler Electronics;ME715
+588;Unidad Odontologica Portatil;KROMADENT;MP-250
+589;Ureteroscopio;Karl Storz;flex 2s
+590;Vaporizador;Datex Ohmeda;ISOTEC5
+591;Vaporizador;Draguer;S-2000
+592;Vaporizador;Draguer;SEV
+593;Vaporizador;General Electric;TEC 850 CEV
+594;Ventilador Mecanico;Drager;Evita XL
+595;Ventilador Mecanico;Drager;Savina 300
+596;Ventilador Mecanico;General Electric;Engstron
+597;Ventilador Mecanico;Newport;E360
+598;Ventilador Mecanico;Puritan Bennett;840
+599;Ventilador Mecanico;Puritan Bennett;980
+600;Ventilador Mecanico;Tecme;Neumovent Graph
+601;Ventilador Mecanico de transporte;Puritan Bennett;/
+602;Videocolonoscopio;Olympus;CF-HQ190L
+603;Videocolonoscopio;Pentax;EC38-I10CL
+604;Videoduodenoscopio;Olympus;TJF-Q180V
+605;Videogastroscopio;Olympus;GIF-1TH190
+606;Videogastroscopio;Pentax;EG29-I10C
+607;Videolaringoscopio;Medtronic;Mc GRATH
+608;Vitrector;Alcon;Constelation Vision System
+609;consola quirurgica;Stryker;TPS
